@@ -1,3 +1,5 @@
+package Projects.Dragon_Cave.src;
+
 import java.util.Scanner;
 
 public class Dragon {
